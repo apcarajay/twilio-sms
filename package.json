@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "cd":"^8.2.0",
+    "node-env-run": "^4.0.2",
+    "twilio": "^3.58.0"
+  },
+  "name": "twilio-sms-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "oneUser": "nodenv oneUser.js",
+    "multiUser": "nodenv multiUser.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "A twilio SMS api",
+  "keywords": []
+}
